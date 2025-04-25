@@ -124,7 +124,7 @@ subtractBtn.addEventListener('click', subtract);
 
 ## 👨‍💻 Autor
 
-**Neto**  
+**Norival Rodrigues**  
 Estudante de Sistemas para Internet | Foco em Backend  
 📘 Em formação constante por meio de cursos e projetos práticos  
 🔗 [Perfil GitHub](https://github.com/seu-usuario-aqui)
